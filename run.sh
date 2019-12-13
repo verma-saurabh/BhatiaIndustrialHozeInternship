@@ -1,0 +1,1 @@
+java -jar target/BhatiaIndustrialHozeInternship-0.0.1-SNAPSHOT.jar
